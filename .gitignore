@@ -133,3 +133,4 @@ dmypy.json
 
 
 media/
+mysite/secret_settings.py
